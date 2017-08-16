@@ -1,3 +1,2 @@
 - [Lista 1](https://docs.google.com/document/d/1AjMyuBY-QiRkXSuc1KiLiKQa8EjnvdkykmK8gLscwPY)
-
-- [Lista 2](https://docs.google.com/document/d/1uVjFQ2t0Im0iElfHGZScTojHjlei9Yn08zcXrjo5gPs/edit)
+- [Lista 2](https://docs.google.com/document/d/1uVjFQ2t0Im0iElfHGZScTojHjlei9Yn08zcXrjo5gPs)
