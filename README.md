@@ -1,4 +1,4 @@
-| Aula  | nota | link | comentário  |
+| Aula  | Nota | Link | Comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/Rhenanrk/ls2017  |   |
 | 2  | 1  | https://github.com/Rhenanrk/ls2017/blob/master/Ativ.%20Supervis.%2019.08.md  |   |
