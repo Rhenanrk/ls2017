@@ -1,3 +1,5 @@
+#### Acompanhamento do semestre:
+
 | Aula  | Nota | Link | Comentário  |
 |:-:|:-:|---|:-:|
 | 1  | 1  | https://github.com/Rhenanrk/ls2017  |   |
